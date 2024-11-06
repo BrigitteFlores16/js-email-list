@@ -1,0 +1,17 @@
+/* # reset */ 
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+ }
+   
+h1 {
+   color: #060707;
+ }
+ #emailList {
+  max-width: 400px;
+  margin: 0 auto;
+}
+    
